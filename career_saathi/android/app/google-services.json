@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936078512893",
+    "project_id": "careersaathi-a124f",
+    "storage_bucket": "careersaathi-a124f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936078512893:android:fb5ae787b0aeffd7e1e494",
+        "android_client_info": {
+          "package_name": "com.CareerSaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn76NQv1c0QGOoRU8QpyzGBJf3rE-H47E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936078512893:android:3fb5128c717c9ee4e1e494",
+        "android_client_info": {
+          "package_name": "com.example.career_saathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn76NQv1c0QGOoRU8QpyzGBJf3rE-H47E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
